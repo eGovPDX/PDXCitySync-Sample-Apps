@@ -2,6 +2,8 @@
 ##Sample applications
 
 This repo contains some sample apps we've built for the CitySync platform, provided as reference for developers. These apps are currently live, and available to users as part of the app catalog on PDX CitySync.
+For full documentation, visit http://developer.pdxcitysync.org
+
 
 ###What is PDX CitySync?
 PDX CitySync is a new platform for engagement, community, and participation from the City of Portland. CitySync provides a great opportunity for civic-minded developers to participate in helping the community access open data through CitySync's application framework. For more information, visit http://pdxcitysync.org
